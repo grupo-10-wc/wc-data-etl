@@ -1,0 +1,4 @@
+pandas
+ipykernel
+gspread
+gspread_dataframe
