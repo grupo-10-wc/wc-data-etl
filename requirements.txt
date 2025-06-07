@@ -3,3 +3,4 @@ ipykernel
 gspread
 jupyter
 gspread_dataframe
+boto3
