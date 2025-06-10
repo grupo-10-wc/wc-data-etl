@@ -5,3 +5,4 @@ jupyter
 gspread_dataframe
 boto3
 pyarrow
+python-dotenv
